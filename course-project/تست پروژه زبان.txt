@@ -1,0 +1,391 @@
+import math;
+from math import *;
+import math;
+from math import *;
+from math.rahg import random    => rand  ;
+from math import random    , floor  ;
+
+
+
+var myArray : new Array [Double] (4); 
+const myInitiatedArray = Array (11, 42, 90.25, 43); 
+var myVar : Int = 25, name:String;
+
+private var point : new Point(1 , 2); 
+const origin : new Point(); 
+
+public Double divide (Int num1, Int num2) { 
+var result : Double; 
+const origin : new Point(); 
+return result; 
+} 
+public Double divide (Int num1, Int num2) { 
+var result : Double; 
+const origin : new Point(); 
+//return result; 
+} 
+
+public Double divide (Int num1, Int num2) { 
+/*result : Double; 
+const origin : new Point(); */
+return result; 
+} 
+
+
+//ظزطبلرذاتنم
+
+38 * (a ** b) or 2;
+
+-a = (2 & 3**2 &2)  ;
+
+
+ a * -(a& 2)==2;
+   +3=4;
+3%4;
+werwe%eewrqwe;
+-(qwert);   
+2 /3;
+2 / 12312;
+3**(2*(6&8))=sara;
+3**(2*(6&8))+=10;
+3**(2*(6&8)) /= 10;
+3**(2*(6&8)) -= 10;
+as << sdf;
+a >>2 ;
+a ++;
+++ a;
+a ++ = (122 ** 2) % 4;
+~a & 3 *(2*4);
+((2**6)&(as or b)) > 2;
+s & b=dfg;
+
+(sadfg & ASDFG) && (a++) || (b  not a);
+((er ** we) <<2 )!= sdf;
+
+if (((er ** we) <<2 )!= sdf) { 
+a ++;
+} 
+elif (((er ** we) <<2 )!= sdf) { 
+ a ++;
+} 
+else { 
+ a ++;
+ if (((er ** we) <<2 )!= sdf) { 
+a ++;
+} 
+elif (((er ** we) <<2 )!= sdf) { 
+ a ++;
+} 
+else { 
+ a ++;
+} 
+} 
+
+
+public void divide (Int num1, Int num2) { 
+var result : Double; 
+const origin : new Point();
+
+2 / 12312;
+3**(2*(6&8))=sara;
+3**(2*(6&8))+=10;
+3**(2*(6&8)) /= 10;
+3**(2*(6&8)) -= 10;
+
+const origin = Point(1 ,3,2);
+Point(1 ,3,2);
+private const origin = Point(1 ,3,2);
+
+if (((er ** we) <<2 )!= sdf) { 
+a ++;
+} 
+elif (((er ** we) <<2 )!= sdf) { 
+ a ++;
+} 
+else { 
+ a ++;
+ if (((er ** we) <<2 )!= sdf) {
+a ++;
+} 
+elif (((er ** we) <<2 )!= sdf) { 
+ a ++;
+} 
+else { 
+ a ++;
+} 
+}  
+return result; 
+} 
+
+
+const origin = Point(1 ,3,2);
+Point(1 ,3,2);
+private const origin = Point(1 ,3,2);
+
+for (myVar = 0; myVar < count && count > 5; myVar++) { 
+ sum += myVar; 
+} 
+
+for (myVar = 0; myVar < count && count > 5; myVar++) { 
+ sum += myVar;
+ for (myVar = 0; myVar < count && count > 5; myVar++) { 
+ sum += myVar; 
+} 
+
+if (((er ** we) <<2 )!= sdf) { 
+a ++;
+} 
+elif (((er ** we) <<2 )!= sdf) { 
+ a ++;
+} 
+else { 
+ a ++;
+ if (((er ** we) <<2 )!= sdf) { 
+a ++;
+} 
+
+Point(1 ,3,2);
+private const origin = Point(1 ,3,2);
+const origin : new Point();
+newList.add (obj.name);
+newList.add *2 = B;
+ 
+} 
+
+newList.add (obj.name);
+newList.add *2 = B;
+}
+
+newList.add (obj.name);
+newList.add *2 = B;
+add.aasas;
+aas.fewf(s.d);
+sdf.asdfg(wer,WEWRTG,234,234,Array(1,3));
+
+
+
+for (var obj in myList ) { 
+ newList.add (obj.name); 
+} for (var obj in myList ) { 
+ newList.add (obj.name); 
+} 
+for ( obj in myList ) { 
+ newList.add (obj.name); 
+} 
+
+for ( obj in myList ) { 
+ newList.add (obj.name); 
+ Point(1 ,3,2);
+private const origin = Point(1 ,3,2);
+const origin : new Point();
+newList.add (obj.name);
+newList.add *2 = B;
+} 
+
+while (((er ** we) <<2 )!= sdf) {
+
+var result : Double; 
+const origin : new Point();
+
+2 / 12312;
+3**(2*(6&8))=sara;
+3**(2*(6&8))+=10;
+3**(2*(6&8)) /= 10;
+3**(2*(6&8)) -= 10;
+
+}
+
+
+do {
+
+var result : Double; 
+  const origin : new Point();
+
+2 / 12312;
+3**(2*(6&8))=sara;
+3**(2*(6&8))+=10;
+3**(2*(6&8)) /= 10;
+3**(2*(6&8)) -= 10;
+
+}while (((er ** we) <<2 )!= sdf)
+
+try { 
+ res = num1 / num2; 
+} 
+on DivisionByZeroException catch (e) { 
+ print ("num 2 = 0"); 
+ print (e); 
+} 
+catch (e) { 
+ print (e , "oops"); 
+} 
+
+
+try { 
+ res = num1 / num2; 
+ try { 
+ res = num1 / num2; 
+} 
+on DivisionByZeroException catch (e) { 
+ print ("num 2 = 0"); 
+ print (e); 
+} 
+catch (e) { 
+ print (e , "oops"); 
+} 
+catch (e) { 
+ print (e , "oops"); 
+} 
+} 
+on DivisionByZeroException catch (e) { 
+ print ("num 2 = 0"); 
+ print (e); 
+} 
+catch (e) { 
+ print (e , "oops"); 
+} 
+catch (e) { 
+ print (e , "oops"); 
+} 
+
+
+switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case "Dec": 
+ print("close enough"); 
+ break; 
+default: 
+ print("try again"); 
+} 
+
+switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case "Dec": 
+ print("close enough"); 
+ break; 
+
+} 
+
+switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case "Dec": 
+ print("close enough"); 
+ 
+
+} 
+
+switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case sdfsdf.adfasdf: 
+ print("close enough"); 
+case sdfsd: 
+ print("close enough");  
+
+case 1234: 
+ print("close enough");  
+
+} 
+
+
+
+
+switch (((er ** we) <<2 )) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case sdfsdf.adfasdf: 
+ print("close enough"); 
+case sdfsd: 
+ print("close enough");  
+
+case 1234: 
+ print("close enough");  
+
+} 
+
+switch (((er ** we) <<2 )) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case sdfsdf.adfasdf: 
+ print("close enough"); 
+case sdfsd: 
+ print("close enough");  
+
+case 1234: 
+ print("close enough"); 
+ switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case "Dec": 
+ print("close enough"); 
+ break; 
+
+} 
+ 
+
+} 
+
+
+
+switch (((er ** we) <<2 )) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case sdfsdf.adfasdf: 
+ print("close enough"); 
+case sdfsd: 
+ print("close enough");  
+
+case 1234: 
+ print("close enough"); 
+ switch (name) { 
+case "Jan": 
+ print("its January");  break; 
+case "Feb": 
+case "Dec": 
+ print("close enough"); 
+ break; 
+
+} 
+
+default:
+do {
+
+var result : Double; 
+  const origin : new Point();
+
+2 / 12312;
+3**(2*(6&8))=sara;
+3**(2*(6&8))+=10;
+3**(2*(6&8)) /= 10;
+3**(2*(6&8)) -= 10;
+
+}while (((er ** we) <<2 )!= sdf)
+
+for (myVar = 0; myVar < count && count > 5; myVar++) { 
+ sum += myVar; 
+} 
+
+var result : Double; 
+const origin : new Point(123 ,asdfgh,qwer.asedr);
+3**(2*(6&8))+=10;
+ 
+
+}
+
+
+
+
+
+
+
