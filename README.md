@@ -10,4 +10,4 @@
 
 - **Teacing Assistant**
   
-. [Writing grammar using Antler](course-project-ta): Designed Writing grammar using Antler as TA for students - Fall 2021
+. [Writing grammar using Antler](course-project-ta): Designed Writing grammar using Antler Project as TA for students - Fall 2021
